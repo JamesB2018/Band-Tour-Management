@@ -1,10 +1,11 @@
 package com.james.developer.bandtours.model;
-import javafx.event.Event;
+
+
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
-import org.apache.catalina.User;
+
 
 import javax.persistence.*;
 import java.util.Set;
